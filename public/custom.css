@@ -1,0 +1,20 @@
+body {
+  background: #f5f5f5;
+}
+
+.rounded-lg {
+  border-radius: 1rem;
+}
+
+.nav-pills .nav-link {
+  color: #555;
+}
+
+.nav-pills .nav-link.active {
+  color: #fff;
+}
+
+#create a {
+    color: #fff;
+    text-decoration: none;
+}
